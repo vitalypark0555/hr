@@ -1,0 +1,184 @@
+.page-container-bg-solid .m-heading-1.m-bordered {
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding: 15px;
+}
+
+.salary {
+    color: #5cb85c !important;
+    font-family: 'Impact', sans-serif;
+    font-size: 15px;
+
+}
+.vacancy h4 {
+    color: black !important;
+    font-family: 'Impact', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.job-title h2 {
+    color: black !important;
+    font-family: 'Impact', sans-serif;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+}
+.job-list {
+    display: block !important;
+}
+
+.job {
+    border-color: #8ea3b6;
+    box-shadow: 8px 8px 8px 1px #8ea3b6 !important;
+}
+
+.panel-default > .panel-heading {
+    background-color: white;
+}
+
+.panel-default > .panel-heading > a {
+    color: black !important;
+    font-family: 'Impact', sans-serif;
+    font-size: 20px;
+}
+
+.panel-default > .panel-footer {
+    background-color: white;
+}
+
+.panel-default > .panel-body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+}
+
+.bootstrap-duallistbox-container .moveall, .bootstrap-duallistbox-container .removeall {
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.profile-panel {
+    border: 0;
+}
+
+.job-detail ul li span {
+    color: #999;
+    display: block;
+    font-size: 12px;
+    line-height: 20px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.job-detail ul li {
+    background: #fafafa;
+    border-bottom: 1px solid #efefef;
+    display: block;
+    list-style: none;
+    margin: 0 0;
+    overflow: hidden;
+    padding: 13px 10px 10px;
+}
+
+.job-detail ul {
+    padding-inline-start: 15px;
+    padding-inline-end: 15px;
+}
+
+a.like {
+    border-radius: 2px;
+    color: #fff;
+    display: inline-block;
+    line-height: 20px;
+    margin-bottom: 0;
+    margin-right: 20px;
+    padding: 12px 0 12px 50px;
+    position: relative;
+    vertical-align: top;
+    width: 15%;
+    min-height: 44px;
+
+}
+
+a.like i {
+    border-right: 1px solid #fff;
+    color: #fff;
+    left: 0;
+    padding: 15px 12px 18px 12px;
+    position: absolute;
+    top: 0;
+}
+.like {
+    background: #95cb2d;
+    cursor: pointer;
+}
+
+.linkedin {
+    background-color: #0077B5;
+    border-radius: 2px;
+    color: #fff;
+    display: inline-block;
+    line-height: 20px;
+    padding: 12px 15px 12px 50px;
+    position: relative;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.linkedin i {
+    border-right: 1px solid #fff;
+    color: #fff;
+    left: 0;
+    padding:15px 13px 18px 13px;
+    position: absolute;
+    top: 0;
+}
+
+.facebook {
+    background-color: #3b5998;
+    border-radius: 2px;
+    color: #fff;
+    display: inline-block;
+    line-height: 20px;
+    padding: 12px 15px 12px 50px;
+    position: relative;
+    vertical-align: middle;
+
+}
+
+.facebook i {
+    border-right: 1px solid #fff;
+    color: #fff;
+    left: 0;
+    padding:15px 14px 18px 14px;
+    position: absolute;
+    top: 0;
+}
+
+.panel-body li {
+    color: #969696;
+    display: block;
+    font-weight: normal;
+    line-height: 21px;
+    margin: 0;
+    text-align: left;
+    word-spacing: 0px;
+    list-style: none;
+}
+
+.panel-body ul {
+    display: inline-block;
+    margin: 0 0 15px;
+    padding: 0;
+    width: 100%;
+}
+
+.panel-body li span {
+    color: #404040;
+    float: left;
+    line-height: 21px;
+    margin: 0 5px 0 0;
+    min-width: 100px;
+    word-spacing: 0;
+}
